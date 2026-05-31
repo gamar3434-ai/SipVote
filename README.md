@@ -1,2 +1,0 @@
-# SipVote
-SipVote Contest
